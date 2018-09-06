@@ -1,2 +1,2 @@
 # CS50W
-Working repository of EdX CS50W Course
+Working repository for EdX CS50W Course
